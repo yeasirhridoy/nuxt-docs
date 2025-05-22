@@ -38,6 +38,5 @@
     "ignoredBuiltDependencies": [
       "vue-demi"
     ]
-  },
-  "packageManager": "pnpm@10.11.0"
+  }
 }
